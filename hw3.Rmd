@@ -1,0 +1,60 @@
+---
+title: "STAT 530 Homework 3"
+subtitle: "See schedule for due date"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Instructions
+
+Submit your answers on Compass in a PDF file created using an R notebook.
+
+# Problem 1 (5 points)
+
+Using the data in `tt2.RData` available on the Canvas site, find which gene is the most variable among myeloma patients treated with TT2. Provide your code in R chunks below each of the following steps.
+
+1. Load the data. (1 point)
+
+```{r}
+## part 1 R code here
+```
+
+2. Find the probe ID with the highest standard deviation across the patients. (2 points)
+
+```{r}
+## part 2 R code here
+```
+
+3. Report the corresponding gene name. (1 point)
+
+4. Visualize the results. Hint: look at previous homeworks in this class for relevant R functions. (1 point)
+
+```{r}
+## part 4 R code here
+```
+
+# Problem 2 (10 points, 1 per exercise)
+Read [https://adv-r.hadley.nz/vectors-chap.html](https://adv-r.hadley.nz/vectors-chap.html) and complete the following exercises.
+
+1. Section 3.2.5 Exercise 2
+
+2. Section 3.2.5 Exercise 3
+
+3. Section 3.3.4 Exercises 2
+
+4. Section 3.3.4 Exercises 3
+
+5. Section 3.4.5 Exercises 2
+
+6. Section 3.4.5 Exercises 3
+
+7. Section 3.5.4 Exercise 2
+
+8. Section 3.6.8 Exercises 1
+
+9. Section 3.6.8 Exercises 2
+
+10. Section 3.6.8 Exercises 4
